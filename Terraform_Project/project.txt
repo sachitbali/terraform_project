@@ -1,0 +1,9 @@
+terraform project
+This project includes the below automation/maintaning the state
+1. Setup a VPC
+2. Setup Beanstalk Environment
+3. Backend Service like
+  - RDS
+  - Elastic Cache
+  - Active MQ
+4. Setting up the security group 
